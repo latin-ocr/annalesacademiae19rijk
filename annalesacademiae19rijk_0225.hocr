@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "annalesacademiae19rijk_0225.png"; bbox 0 0 1913 2417; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 241 678 1465 745">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 241 678 1465 745">
+     <span class='ocr_line' id='line_1_1' title="bbox 241 678 1465 745; baseline 0.002 -6"><span class='ocrx_word' id='word_1_1' title='bbox 241 678 707 740; x_wconf 82' lang='lat' dir='ltr'><strong>MEINARDI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 753 681 1132 741; x_wconf 91' lang='lat' dir='ltr'><strong>SIMONIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1189 704 1264 738; x_wconf 78' lang='lat' dir='ltr'><em>nn</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1312 685 1465 745; x_wconf 92' lang='lat' dir='ltr'><em>PUI</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 506 879 1190 966">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 506 879 1190 966">
+     <span class='ocr_line' id='line_1_2' title="bbox 506 879 1190 966; baseline 0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 506 879 1190 966; x_wconf 87' lang='lat' dir='ltr'><strong>ORATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 809 1091 884 1123">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 809 1091 884 1123">
+     <span class='ocr_line' id='line_1_3' title="bbox 809 1091 884 1123; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 809 1091 884 1123; x_wconf 88' lang='lat' dir='ltr'><em>DE</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 109 1241 1580 1438">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 109 1241 1580 1438">
+     <span class='ocr_line' id='line_1_4' title="bbox 109 1241 1580 1297; baseline 0.002 -17"><span class='ocrx_word' id='word_1_7' title='bbox 109 1241 485 1282; x_wconf 77' lang='lat' dir='ltr'><em>PROSPERIS</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 528 1241 756 1292; x_wconf 68' lang='lat' dir='ltr'><strong><em>&#39;ATQUE</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 800 1244 1156 1292; x_wconf 83' lang='lat' dir='ltr'><em>ADVERSIS,</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1208 1245 1382 1297; x_wconf 83' lang='lat' dir='ltr'><em>QUAE</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1425 1246 1580 1285; x_wconf 49' lang='lat' dir='ltr'><em>&#39;ACAq</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 226 1319 1460 1365; baseline 0.002 -6"><span class='ocrx_word' id='word_1_12' title='bbox 226 1319 496 1360; x_wconf 81' lang='lat' dir='ltr'><em>DEMIAE</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 536 1320 1208 1361; x_wconf 81' lang='lat' dir='ltr'><em>LUGDUNO-BATAVAE</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1258 1323 1460 1365; x_wconf 73' lang='lat' dir='ltr'><em>ANNO</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 433 1395 1249 1438; baseline 0.005 -4"><span class='ocrx_word' id='word_1_15' title='bbox 433 1395 685 1436; x_wconf 79' lang='lat' dir='ltr'><em>ELAPSO</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 737 1396 1249 1438; x_wconf 65' lang='lat' dir='ltr'><em>CONTIGERUNJ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

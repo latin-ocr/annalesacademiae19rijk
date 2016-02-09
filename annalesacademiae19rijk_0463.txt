@@ -1,0 +1,51 @@
+RESPONSIO AD QUAESTIONEM MATHEMATICAM. {E
+
+ergo tempote aestivo Solis ortus 5¹² 50' 56“
+occasus 6¹¹ 9' 4¹¹
+
+tempore hiemale ortus 6¹² 9' 4‘'
+occasus 5¹² 50' 56⁰
+
+tempore aest1vo diStantia Solis a Zenith in Meridiano versus boream
+= 18⁰ 15' = 230 28' — 50 13'
+
+’ tempore hiem. dist. Solis a Z versus austrum Ξ 28⁰ 41' = 230 28' -l- 50 13'
+
+Sin. deQ.
+COS. latit.
+
+ 
+
+Cos. azimuth = Cos. SO =
+
+ 
+
+Log. Sin. decl. z Log. Sin. 230 28‘ = 9,6oo1181
+Compl. Log. Cos. lat. z: Compl. Log. Cos. 5⁰ 12‘ 45¹l = o‚2017997
+Log. Cos. azimuth Ξ Log. Cos. 660 25¹ 50‘' = 9‚6019118
+
+ergo azimuthnm ad septentrionem 660 25' '50''
+ct amplitudo tempore aestivo 230 39¹ 10
+tempore hiemale ad austrum.
+
+30. Pro latitudine boreale 310 33' 50‘'
+
+Cos. ang, hor. = Tang. Latit. >< Tang. declin. FIg. 4.
+
+Log. Tang. Lat. = Log. Tang. 31⁰ 30‘ 50'' z 9‚7875'556
+Log. Tang. decl. :- Log. Tang. 23⁰ 28‘ = 9‚6376106
+Log. Cos. ang. hor. = Log. Cos. 740 33' 50'' = 9‚4251662
+
+ 
+
+ergo tempore aestivo Solis ortus 4¹¹ 58' 15''‚3
+occasus 71¹ 1‘ 45''
+
+tempore hiemale ortus 7¹³ 1' 45⁰
+occasus 4¹¹ 58' 15“,3
+
+tempore aestivo distantia solis a Zenith 80 2' 50‘'
+et tempore hiemale 540 58¹ 50''
+
+Β 3 (509.
+

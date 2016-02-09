@@ -1,0 +1,41 @@
+RESPONS10 m> QUAESTIONEM A·STRONOM10AM. 9
+
+Transitus Superior.
+
+’ β. p 2: ιο 41‘ 34'46
+d = >92⁰ - 74⁰ 52² 7'23
+Tang. φ = Cos. p Tang. d Ξ 15⁶ T 52¹2?
+
+Log. Cos. p = Log. Cos. 1⁰ 41¹ 34'',6 = 9.9998104
+Log. Tang. d = Log. Tang. 15ο 7‘ 52''‚7 z 0.4320179
+Log. Tang. φ = Log. Tang. 150 γ’ 30⁶ :W
+
+l = 520 9' 2625
+ζ -Ι- φ = 67ο 16’ 56”,5
+QEI.
+
+ 
+
+sin. ,h = c0s. a sm. (ι -ι- φ)
+
+ 
+
+Cos. φ
+Log. Cos. d = Log. Cos. 150 7' 52⁰‚7 = 99846759
+Log- Sin· (l -Ι- Φ) = Log. Sin. 67⁰ 16‘ 56‘'‚5 = 99649283
+Compl. Log. Cos. φ = Compl. Log. Cos. 150 7¹ 30⁰ = 0-0152112
+Log. Sin. h = Log. Sin. 670 16¹ 41¹¹,81 Ξ 99649154
+QEI.
+
+Tang· z Σ Tang. p Sin. φ
+
+ 
+
+(30⁵- (l -ί-Φ)
+Log. Tang. p = Log. Tang. 1⁰ 41' 34¹'‚6 = 9.4706464
+Log. Sin. φ = Log. Sin. 15⁰ 7' 30¹¹ = 9.4:65169
+eompl. Log. Cos. (l445) = Compl- Log. Cos· 670 16¹ 56”,5 = 0·4¹21090
+Log. Tang. z = Log. Tang. 10 8¹ 38‘',42 = 9·3003⁶23
+
+ρει.
+

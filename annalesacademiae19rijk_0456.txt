@@ -1,0 +1,48 @@
+ς .HENR101 ALBERTI ERMERINS
+
+Ex demonstratis autem invenimus simul angulos in centro Dodecaiidri et Telluris se·
+quemi modo:
+
+chu = 310 43‘ 3⁰ , ‚
+LUCQ' = 310 43‘ 3⁰} 63⁰ ²6 θ’ = QCQ
+LQ'CS = 37⁰ 22‘ 39⁰
+
+q LSCH = 410 48¹ 36⁰
+LHCT = 37⁰ 22* 39⁰
+LTCR = 31⁰ 43¹ 3‘'
+LRCT‘= 31⁰ 43' 3¹⁷
+LT‘CMz 370 22‘ 39¹¹
+LMCY = 410 48' 36⁰
+LYCQ = 37⁰ 22‘ 39¹¹
+summa Ξ-ξόῖΓ-
+
+ἐ
+
+Videamus nunc de punctis P' et ρ’, id est determinemus illa puncta in superficie Do·
+decafidri‚ per quae aXIs Telluris transiturus esset sl protendatur.
+
+In triangulis rectangularibus CQ'P' et CQ‘U erit
+
+Q'C ε P'Q' = 1 : Tang. LP'CQ'
+
+et Q'C : Q'U Ξ 1 ι Tang. LQ'CU
+ergo 'Q‘U : P'Q‘ Ξ Tang. LQ'CU ε Tang. LP'CQ'
+
+1 1 Q ‚— 1 · Tang. LP'CQ‘
+
+’ Q‘U “““ ’ Tang. aQ‘CU
+
+Sit Latitudo Observ. Leid. = 52⁰ 9¹ 30⁶ Ξ QAE = LQCAE
+hinc ejus distantia a Polo Bor. = 370 50¹ 30¹¹ Ξ QP Ξ LQCP
+qui LQCP si auferatur ab LQCQ‘ Ξ 630 26¹ 6⁰
+remanet LPCQ‘ Ξ 25⁰ 35¹ 30¹¹
+et dum LQ'CU = 31⁰ 43' 3⁰ jam cognitus.
+
+ 
+
+Log. Tang. LP'CQ' = Log. Tang. 250 35' 36'‘ = 9‚6803144
+Compl. Log. Tang. LQ‘CU = Compl. Log. Tang. 310 43' 3'' Ξ 0‚2089872
+Ergo Log· ZssQL} Ξ Log· 027FS :- 928893016
+
+Si
+

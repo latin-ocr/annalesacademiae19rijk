@@ -1,0 +1,51 @@
+HENRmx ALBERTI ERMERINS
+
+ 
+
+Log. Tang. C'‘m Ξ Log. Tang. 310 43‘ 3'‘ Ξ 9‚7910128
+Compl. Log. Sin. Pm = Compl. Log. Sin. 960 7' 40⁰ Ξ 0,0024885·
+Log. Tang. mPC'' = Log. Tang. 3ιο 51¹ 55'‘ Ξ 9‚7935013
+
+Ergo Longitudo C‘¹ Ξ 310 52' orientalis.
+
+In triangulo sphaerico PzC' vel PQC'
+
+data sunt PzC‘ Ξ 720 (Vid. supra pag. 5.)
+zC' = 630 26' 6¹¹
+ΡΖ Ξ 37⁰ 50¹ 30⁸
+inveniendum PC‘ Compl. Latitudinis loci C'.
+
+Tang· x Ξ Cos. PzC' >< Tang. zC'
+
+eos. Pc‘ = 0⁰⁵· ΖΟ Χρξζζωό ’- ³³ (vid. el. Delambrc l. l. p. 100. 546.)
+
+ 
+
+Log. Cos. PzC' = Log. Cos. 720 Ξ 9‚4899824
+Log. Tang. zC‘ Ξ Log. Tang. 630 26' 6¹¹ = 0‚3010310
+ergo Log. Tang. x = Log. Tang. 310 43' 3⁰ Ξ 9⁴70¹01⁵4
+x τ 31⁰ 43‘ 3⁰
+ΡΖ Ξ 37⁸² 50¹ 30⁰
+
+ 
+
+ 
+
+Log. Cos. zC' Ξ Log. Cos. 630 26¹ 6⁶ = 9‚6504722
+Log. Cos. (Pz—x) Ξ Log. Cos. 60 7' 27⁰ Ξ 9‚9975144
+Compl. Log. Cos. x Ξ Compl. Log. Cos. 310 43' 3¹¹ Ξ 0‚0702498
+ergo Log. Cos. PC' Ξ Log. Cos. 580 29⁴ 16''‚5 =⁴9‚7182354
+
+E-rgo Latitudo loci C‘ Ξ 3ιο 30¹ 43¹¹,5 BoreaIis.
+
+In triangulo sphaerico C0PC‘
+
+data sunt PC0 = 250 35' 36'‘ Ξ LPCQ‘ (Conf. pag. 6.)
+PC' = 580 29¹ 16⁰,5
+C¹C0 Ξ 630 26‘ 6⁰ Ξ QC‘ Ξ Q‘Q Ξ LQCQ‘
+inveniendum LC⁰PC‘
+
+sin.
+
+ 
+

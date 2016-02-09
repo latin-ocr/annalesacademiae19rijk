@@ -1,0 +1,39 @@
+RESPONSIO A'D QUAESTIONEM MATHEMATICAM. 11
+
+Sex meridiani ad utramque hemisphaerii partem distant igitur a se invicem sequenti
+
+modo:
+observator-ium Leidense Ξ 00
+1 ..... Ξ 310 52¹
+ΙΙ ..... Ξ 220 30⁹
+111 ..... Ξ 710 16'
+IV. . . . . Ξ 220 30¹
+V ..... Ξ 31⁰ 52'
+
+Longimdines igitur locorum simplici additione ex hac tabula determinantur et qui<-
+<dem longitudines versus orIcntem numeratae.
+
+Longitudo observ. Leid. 00 Latitudo Ξ 520 9¹ 30¹¹ Boreans
+
+-— Loci 5 Ξ 310 52' —— Ξ 50 12' 45'' Australis
+-— — 8 Ξ 540 22¹ —- Ξ 310 30' 50⁰ Australis
+--- ——- 7 Ξ 1250 38' --—- = 310 30¹ 50'' Borealis
+-— -——- 6 Ξ 1480 8‘ —— = 50 12' 45⁰ Borealis
+-- —— 4 = 1800 -— = 640 24' 24¹¹ Borealis
+-κ-ι- — 2 = 1800 -—- Ξ 52⁰ 9‘ 30⁰ Australis
+—— —- 9 Ξ 2110 52' -— = 50 12' 45‘l Borealis
+-- ——- 12 = 2340 22‘ ———- = 31⁰ 30¹ 50⁶ Bor-calis
+—— -——- 11 Ξ 3050 38¹ —-— Ξ 310 30¹ 50⁰ Australis
+—- ——· 10 = 3280 8‘ —- Ξ 50 12¹ 45⁰ Australis
+—- —— 3 = 3600 —— Ξ 640 24¹ 24'‘ Australis
+
+Restat adhuc ut determinemus tempestates anni, id est, aestatem , hiemem, ver et au-
+tumnum. Ver autem et autumnus sunt quantitates intermediae et fere arithmeticae
+proportionales inter aestatem et hiemem3 aestas vero adest, quando Sol acquirit iu Me-
+ridiano minimam distantiam a zenith‚ et hiems quando ad maximam a zenith distantiam
+pertingit. Quo maJ'Or sit altitudo Solis meridiana, eo major erit arcus diurnu53 quo
+minor sit altitudo Solis meridiana, eo minor erit arcus diurnu53 dies erunt breviores,
+noctes vero longiores.
+
+E 2 Cos,
+

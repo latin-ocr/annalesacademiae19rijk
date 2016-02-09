@@ -1,0 +1,48 @@
+RESPONSIO An QUAESTIONEM MATHEMATICAM. T
+
+Si ergo perpendicularis Q¹U ex pentagoni centro Q'sit aequalis unitati3 punctum P' Axeos
+boreale erit determinatum , cum in perpendiculari illa Q‘U ex centro illo Q‘ versus U sumun-
+tur partes 0‚775; et punctum p' Axeos australe ipsi oppositum inde sequitur.
+
+functo P cogni-te, Longitudines et Latitudines Locorum facile sequenti modo determinantur}
+In triangulo sphaerico rectangulari QmC'' data sunt:
+
+hypotenusa QC¹¹ Ξ 630 26¹ 6²¹
+latus angulo recto adjacens C‘'m Ξ 310 43¹ 3‘'
+et angulus QmC‘' = L
+
+ergo Cos· Qm Ξ Cos. QC‘' (Conf. C1.Delambre, Abr. d’Astrorr..
+
+ 
+
+Cos. c‘v‘n‘ p. 96.)
+Log. Cos. QC‘' Ξ Log. Cos. 630 26' 6¹¹ Ξ 9‚6504722
+eompl. Log. Cos. C'‘m = CompLLog. Cos. 310 43* 3³¹ Ξ 0,0702488
+Ergo Lug· Cos. Ωιι* Ξ Log. Cos. 58⁰ 17' 10¹¹ Ξ 9³?20Z210
+Add. Compl. Latit. Ξ 3310 50¹ 30⁰
+
+erit arcus PQAEm Ξ-ψ-ᾆο-ΓᾟἮ
+
+Porro in triangulo sphaerico reetangulari 00va
+data sunt Pm Ξ 960 7' 40¹*
+
+et mC“ Ξ 310 43' 3¹*
+
+Hinc PC¹' Latitudo loci (3⁰, et mPC'¹ ejusdem loci C“ Longitudinis differentia. cum
+observatorio Q determinantur ope formularum
+
+Cos. PC‘' = Cos. Pm Χ Cos. C'''m
+
+Tang. szc¹¹ = Tng· 0⁷²²
+m. lm
+
+ 
+
+(Vid. Cl. Delambre l'. l. pa 96· casua 11.)
+
+Log. Cos Pm Ξ Log. Cos. 960 γ’ 40⁰ = 9‚0283521
+hog. Cos. C¹'m Ξ Log. Cos. 310 43‘ 3‘' Ξ 9,92975m
+Log. Cos. PC¹‘ Ξ Log. Cos. 950 η’ 45‘' Ξ 8,9583033
+
+Ergo Latitudo loci C'‘ = 5⁰ ια’ 45* Ausuali'o
+
